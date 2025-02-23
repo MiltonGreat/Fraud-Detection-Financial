@@ -2,6 +2,8 @@
 
 This project focuses on detecting fraudulent transactions in a dataset of financial transactions using **machine learning techniques**. The goal is to build a robust system that can identify fraudulent activities while minimizing false positives and false negatives.
 
+While the classification model performed exceptionally well, the anomaly detection model requires further refinement to reduce false positives and false negatives. By combining supervised learning (classification) and unsupervised learning (anomaly detection), we created a system that not only detects known patterns of fraud but also identifies unusual transactions that may indicate new or evolving fraud schemes.
+
 ---
 
 ## Project Overview
