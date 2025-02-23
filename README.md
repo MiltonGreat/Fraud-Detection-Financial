@@ -1,4 +1,4 @@
-# # Fraud Detection in Financial Transactions
+# Fraud Detection in Financial Transactions
 
 This project focuses on detecting fraudulent transactions in a dataset of financial transactions using **machine learning techniques**. The goal is to build a robust system that can identify fraudulent activities while minimizing false positives and false negatives.
 
